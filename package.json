@@ -1,7 +1,7 @@
 {
-  "name": "solidity_base_template",
+  "name": "solidity-coding-test",
   "version": "0.0.1",
-  "description": "Template Solidity environment based on Hardhat, Waffle, and Ethers",
+  "description": "Create a smart contract that can arbitrage two exchanges",
   "main": "index.js",
   "scripts": {
     "compile": "npx hardhat compile",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BodhiFinance/solidity_base_template.git"
+    "url": "git+https://github.com/EnsoFinance/solidity-coding-test.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BodhiFinance/solidity_base_template/issues"
+    "url": "https://github.com/EnsoFinance/solidity-coding-test/issues"
   },
-  "homepage": "https://github.com/BodhiFinance/solidity_base_template#readme",
+  "homepage": "https://github.com/EnsoFinance/solidity-coding-test#readme",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.1",
     "@nomiclabs/hardhat-waffle": "^2.0.0",
@@ -33,5 +33,9 @@
     "solhint": "^3.3.2",
     "solhint-plugin-prettier": "0.0.5",
     "solidity-coverage": "^0.7.13"
+  },
+  "dependencies": {
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0"
   }
 }
