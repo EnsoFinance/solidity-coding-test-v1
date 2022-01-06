@@ -19,7 +19,7 @@ The following challenges are not required but they help us understand your codin
 
 ## Setup
 ### Duplicate Repository
-[Duplicate this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) and set it to private. Give read access to [ConnorSB13](https://github.com/ConnorSB13) to review your work.
+[Duplicate this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) and set it to private. Give read access to [ConnorSB13](https://github.com/ConnorSB13), [PeterMPhillips](https://github.com/PeterMPhillips) and [KyleDewy](https://github.com/kyledewy) to review your work.
 
 ### Install
 ```
